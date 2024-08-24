@@ -1,6 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title: Wpisy
+pagination:
+    enabled: true
 ---
+
+<h2>Wpisy</h2>
+{% for post in paginator.posts %}
+<span class="post-item"><span class="mobile-hide"> {{ post.date | date: '%Y-%m-%d' }} >> </span><a href="{{ post.url }}">{{ post.title }}</a><span class="float-right mobile-hide">{{ post.categories }}</span></span>
+{% endfor %}
+
+<div class="post-nav">
+{% if paginator.total_pages > 1 %}
+{% if paginator.next_page %}
+<a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&lt;- Starsze</a>
+{% endif %}
+{% if paginator.previous_page %}
+<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Nowsze -&gt;</a>
+{% endif %}
+{% endif %}
+</div>
