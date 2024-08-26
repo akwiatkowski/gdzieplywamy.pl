@@ -1,10 +1,23 @@
 ---
 layout: post
-author: AKwiatkowski
+author: Aleksander Kwiatkowski
 title:  "Warszawa"
 date:   2024-08-20 12:00:00 +0200
 categories: Polska
 ---
+
+[dziambor-twit1]: https://x.com/ArturDziambor/status/1813316478910816487
+
+Zalanie Warszawy było istotne ale chwilowe. Jeżeli mnie pamięć nie myli to jeszcze raz
+był taki deszcz. Wtedy był [zalany garaż posła][dziambor-twit1].
+
+## social
+
+{% twitter https://x.com/OstatniePokolen/status/1825813201566482922 %}
+
+chyba jedno z najmniej kontrowersyjnych akcji aktywistów klimatycznych
+
+## filmiki
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WpGAiWhqPy4?si=dHjViE-QmBcXyNDG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

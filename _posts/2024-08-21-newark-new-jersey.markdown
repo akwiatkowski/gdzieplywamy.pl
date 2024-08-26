@@ -1,6 +1,6 @@
 ---
 layout: post
-author: AKwiatkowski
+author: Aleksander Kwiatkowski
 title:  "Newark, New Jersey"
 date:   2024-08-21 12:00:00 +0200
 categories: świat

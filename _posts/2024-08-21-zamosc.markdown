@@ -1,6 +1,6 @@
 ---
 layout: post
-author: AKwiatkowski
+author: Aleksander Kwiatkowski
 title:  "Zamość"
 date:   2024-08-21 11:00:00 +0200
 categories: Polska

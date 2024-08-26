@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Witajcie"
+date:   2024-08-24 23:25:24 +0200
+categories: organizacyjne
+---
+
+[github]: https://github.com/akwiatkowski/gdzieplywamy.pl
+
+## Cześć!
+
+### Co to za strona?
+
+Rok 2024 był bardzo interesujący jeżeli chodzi o zalane miasta. O tyle wcześniejszy 
+"obfitował" zalania głownie w innych europejskich miastach a Polska czuła się 
+bezpiecznie, tak teraz sytuacja się zmieniła.
+
+Po kolejnym zalanym polskim mieście postanowiłem zacząć to amatorsko katalogować aby
+pokazać, że to nie tylko aktywiści klimatyczni blokują nasze ulice. Ich się stosunkowo
+łatwo "neutralizuje". Natomiast jak spadnie miesięczny deszcz w ciągu kilku godzin
+to ta woda magicznie nie zniknie.
+
+### Dlaczego tak się dzieje?
+
+Nie wiem. Może przez większe parowanie mamy więcej wilgociw w atmosferze? Może
+cieplejsza atmosfera to więcej energii w chmurach i "ciekawsze" wydarzenia
+pogodowe?
+
+**Kto mógł to przewidzieć?**
+
+### Co tutaj będzie?
+
+Nie zamierzam tworzyć automatyzacji ani wrzucać tutaj wszystkie informacje o zalaniach.
+Będzie to moje subiektywne zestawienie.
+
+Jeżeli uważasz, że warto by było dodać artykuł możesz wysłać [pull request][github].
+Zastrzegam sobie decyzyjność - chce aby były tutaj najciekawsze sytuacje a nie
+to, że jednemu posłowi zalało garaż.

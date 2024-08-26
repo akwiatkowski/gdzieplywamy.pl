@@ -1,0 +1,17 @@
+---
+layout: post
+author: Aleksander Kwiatkowski
+title:  "Gniezno"
+date:   2024-05-20 12:00:00 +0200
+categories: Polska
+---
+
+Nawałnica w Gnieźnie była chyba pierwszą, która w 2024 wydarzyła się w Polsce.
+
+## filmiki
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eX4BLJApHwc?si=qfOHrt6n3Uy0cvfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-fXe5z_zsPg?si=SV3i7Reba98kfsAn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dTW1MLyeMQ?si=hUZD_blO6ugQeGtj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

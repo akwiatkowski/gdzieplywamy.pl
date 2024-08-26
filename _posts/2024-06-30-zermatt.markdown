@@ -1,6 +1,6 @@
 ---
 layout: post
-author: AKwiatkowski
+author: Aleksander Kwiatkowski
 title:  "Zermatt"
 date:   2024-06-30 12:00:00 +0200
 categories: Europa
