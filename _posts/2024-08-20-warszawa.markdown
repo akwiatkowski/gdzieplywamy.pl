@@ -17,6 +17,8 @@ był taki deszcz. Wtedy był [zalany garaż posła][dziambor-twit1].
 
 chyba jedno z najmniej kontrowersyjnych akcji aktywistów klimatycznych
 
+{% twitter https://x.com/ArturDziambor/status/1813316478910816487 %}
+
 ## filmiki
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WpGAiWhqPy4?si=dHjViE-QmBcXyNDG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

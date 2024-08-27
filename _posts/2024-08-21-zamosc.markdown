@@ -6,7 +6,11 @@ date:   2024-08-21 11:00:00 +0200
 categories: Polska
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/olxuX8dnJkk?si=mtfUpi-9t81G6Lzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Jeżeli jesteś rolnikiem, który na początku protestował przeciwko UE, to czy
+teraz będziesz protestował przez susze i nadmiarowe deszcze?
 
+## media
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/olxuX8dnJkk?si=mtfUpi-9t81G6Lzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a2SkU1Mbik4?si=o7XsCqI9WGjgJlmm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
