@@ -1,0 +1,23 @@
+---
+layout: post
+author: Aleksander Kwiatkowski
+title:  "Iran"
+date:   2024-08-28 12:00:00 +0200
+categories: świat
+---
+
+Dzisiaj w Iranie może nikt nie pływa ale mają trochę ciepło. 
+
+## social
+
+{% twitter https://x.com/US_Stormwatch/status/1828905915225125132 %}
+
+{% twitter https://x.com/extremetemps/status/1828852611669168479 %}
+
+## media
+
+więcej na: [hindustantimes][hindustantimes], [reddit][reddit], [guyonclimate][guyonclimate]
+
+[hindustantimes]: https://www.hindustantimes.com/world-news/iran-village-hits-dangerous-82-2-c-heat-index-101724952687302.html
+[reddit]: https://www.reddit.com/r/weather/comments/1f3e849/dayrestan_airport_metar_data_on_august_28_2024/
+[guyonclimate]: https://guyonclimate.com/2024/08/29/extreme-temperature-diary-thursday-august-29th-2024-main-topic-details-on-latest-blazing-middle-east-heatwave/

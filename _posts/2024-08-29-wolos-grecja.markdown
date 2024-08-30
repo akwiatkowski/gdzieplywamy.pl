@@ -3,7 +3,7 @@ layout: post
 author: Aleksander Kwiatkowski
 title:  "Wolos, Grecja"
 date:   2024-08-29 12:00:00 +0200
-categories: świat
+categories: Europa
 ---
 
 U nas mamy przygody na Odrze i rybki sobie śpią. Nie jesteśmy jedyni! Teraz Grecy 
